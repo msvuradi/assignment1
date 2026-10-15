@@ -43,7 +43,7 @@ The notebook shows that:
 ## Dataset Files and colab file name
 - data/coupons.csv
 - prompt.ipynb
-- 
+
 ## Requirements
 Install the following Python packages:
 - pandas
