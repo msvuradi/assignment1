@@ -39,7 +39,7 @@ The notebook shows that:
 - data/ — input dataset
 - notebook(s) — analysis and visualizations
 - README.md — project overview
-- 
+  
 ## Dataset Files and colab file name
 - data/coupons.csv
 - prompt.ipynb
